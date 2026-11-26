@@ -1,0 +1,27 @@
+{
+  "planHash": "cffed18e6596cc951f7383d38f06286216236f9366f9107a558680bec1e6de8f",
+  "phase": "baseline",
+  "recordedAtUtc": "2026-11-24T23:15:25.8091978Z",
+  "retryCount": 0,
+  "resetBaseline": true,
+  "complete": true,
+  "result": {
+    "setupSucceeded": false,
+    "setupDurationMs": 2496,
+    "setupFailureOutput": "setup step 0 \u0027npm\u0027 failed (exit=1, timedOut=False)\r\nnpm error code ERESOLVE\r\nnpm error ERESOLVE could not resolve\r\nnpm error\r\nnpm error While resolving: react-quill@2.0.0\r\nnpm error Found: react@19.3.1\r\nnpm error node_modules/react\r\nnpm error   react@\u0022^19.3.1\u0022 from the root project\r\nnpm error   peer react@\u0022\u003E=16.8.0\u0022 from @dnd-kit/accessibility@3.1.1\r\nnpm error   node_modules/@dnd-kit/accessibility\r\nnpm error     @dnd-kit/accessibility@\u0022^3.1.1\u0022 from @dnd-kit/core@6.3.1\r\nnpm error     node_modules/@dnd-kit/core\r\nnpm error       @dnd-kit/core@\u0022^6.3.1\u0022 from the root project\r\nnpm error       1 more (@dnd-kit/sortable)\r\nnpm error   14 more (@dnd-kit/core, @dnd-kit/sortable, @dnd-kit/utilities, ...)\r\nnpm error\r\nnpm error Could not resolve dependency:\r\nnpm error peer react@\u0022^16 || ^17 || ^18\u0022 from react-quill@2.0.0\r\nnpm error node_modules/react-quill\r\nnpm error   react-quill@\u0022^2.0.0\u0022 from the root project\r\nnpm error\r\nnpm error Conflicting peer dependency: react@18.3.1\r\nnpm error node_modules/react\r\nnpm error   peer react@\u0022^16 || ^17 || ^18\u0022 from react-quill@2.0.0\r\nnpm error   node_modules/react-quill\r\nnpm error     react-quill@\u0022^2.0.0\u0022 from the root project\r\nnpm error\r\nnpm error Fix the upstream dependency conflict, or retry this command with --force or --legacy-peer-deps to accept an incorrect (and potentially broken) dependency resolution.\r\nnpm error\r\nnpm error\r\nnpm error For a full report see:\r\nnpm error C:\\Users\\pc\\AppData\\Local\\npm-cache\\_logs\\2026-11-24T23_15_23_716Z-eresolve-report.txt\r\nnpm error A complete log of this run can be found in: C:\\Users\\pc\\AppData\\Local\\npm-cache\\_logs\\2026-11-24T23_15_23_716Z-debug-0.log\r\n",
+    "assertions": [],
+    "executions": [
+      {
+        "source": "setup[0]",
+        "resolvedExecutable": "C:\\Program Files\\nodejs\\npm.CMD",
+        "args": [
+          "ci"
+        ],
+        "cwd": "C:\\Users\\pc\\OneDrive\\Desktop\\fraud-detection-frontend",
+        "env": {},
+        "prependPath": [],
+        "platform": "win32"
+      }
+    ]
+  }
+}

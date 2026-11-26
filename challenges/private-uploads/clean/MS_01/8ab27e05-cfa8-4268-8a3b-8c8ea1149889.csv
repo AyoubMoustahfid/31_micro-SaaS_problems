@@ -1,0 +1,251 @@
+Contract_ID,Vendor_ID,Vendor_Name,Contract_Title,Category,Contract_Start_Date,Contract_End_Date,Contract_Value,Currency,Department,Contract_Status,Renewal_Required,Owner_ID
+CTR-0001,V008,Summit Logistics Parts,Raw Materials Supply Agreement 0001,Raw Materials,2026-04-04,2027-04-04,805323.75,EUR,Manufacturing,Under Review,No,EMP-0055
+CTR-0002,V016,Westwind Electrical,Professional Services Supply Agreement 0002,Professional Services,2025-10-20,2027-04-13,290028.82,EUR,Manufacturing,Terminated,No,EMP-0150
+CTR-0003,V014,Pioneer Facility Goods,Professional Services Supply Agreement 0003,Professional Services,2025-01-05,2025-07-04,1994664.93,EUR,Logistics,Draft,Yes,EMP-0029
+CTR-0004,V005,Sahara Office Solutions,Office Supplies Supply Agreement 0004,Office Supplies,2026-03-22,2029-03-21,847209.13,EUR,Quality,Expired,No,EMP-0136
+CTR-0005,V009,Redstone Maintenance Co,Raw Materials Supply Agreement 0005,Raw Materials,2025-11-27,2028-11-26,233530.73,USD,Finance,Terminated,No,EMP-0029
+CTR-0006,V010,Clearwater Chemicals,Professional Services Supply Agreement 0006,Professional Services,2024-06-10,2025-12-02,11474.41,EUR,Facilities,Under Review,Yes,EMP-0077
+CTR-0007,V017,Evergreen Components,Safety Equipment Supply Agreement 0007,Safety Equipment,2024-06-05,2025-06-05,1526209.05,USD,Operations,Under Review,No,EMP-0126
+CTR-0008,V001,Atlas Industrial Supplies,IT Equipment Supply Agreement 0008,IT Equipment,2025-01-06,2026-01-06,482707.36,EUR,IT,Draft,No,EMP-0018
+CTR-0009,V018,Harborview Paper Products,Office Supplies Supply Agreement 0009,Office Supplies,2024-05-11,2027-05-11,953188.34,USD,Facilities,Active,No,EMP-0055
+CTR-0010,V018,Harborview Paper Products,Safety Equipment Supply Agreement 0010,Safety Equipment,2025-12-31,2026-12-31,800989.64,EUR,Logistics,Under Review,No,EMP-0031
+CTR-0011,V008,Summit Logistics Parts,Safety Equipment Supply Agreement 0011,Safety Equipment,2024-03-06,2025-03-06,46963.35,USD,Manufacturing,Under Review,Yes,EMP-0002
+CTR-0012,V003,Cedarline Packaging,Raw Materials Supply Agreement 0012,Raw Materials,2024-08-22,2024-11-20,1811312.93,EUR,IT,Under Review,Yes,EMP-0072
+CTR-0013,V016,Westwind Electrical,Safety Equipment Supply Agreement 0013,Safety Equipment,2025-07-06,2026-01-02,1448088.37,USD,Logistics,Active,No,EMP-0105
+CTR-0014,V007,Oakbridge Manufacturing,IT Equipment Supply Agreement 0014,IT Equipment,2024-04-09,2027-04-09,864947.11,MAD,Quality,Expired,Yes,EMP-0026
+CTR-0015,V002,Northstar Components,Professional Services Supply Agreement 0015,Professional Services,2026-01-15,2027-01-15,1602182.06,EUR,Manufacturing,Active,Yes,EMP-0138
+CTR-0016,V015,Crown Industrial Textiles,Office Supplies Supply Agreement 0016,Office Supplies,2025-03-08,2025-09-04,560697.56,EUR,IT,Expired,Yes,EMP-0013
+CTR-0017,V018,Harborview Paper Products,Raw Materials Supply Agreement 0017,Raw Materials,2024-04-05,2024-10-02,336790.67,MAD,Logistics,Active,No,EMP-0016
+CTR-0018,V006,Meridian Safety Products,Professional Services Supply Agreement 0018,Professional Services,2024-01-03,2025-06-26,534080.1,MAD,Finance,Expired,No,EMP-0040
+CTR-0019,V007,Oakbridge Manufacturing,Maintenance Supply Agreement 0019,Maintenance,2024-08-10,2024-11-08,1160464.68,USD,Operations,Terminated,No,EMP-0015
+CTR-0020,V002,Northstar Components,Electrical Supplies Supply Agreement 0020,Electrical Supplies,2025-05-29,2027-05-29,319078.29,USD,IT,Active,Yes,EMP-0018
+CTR-0021,V008,Summit Logistics Parts,Professional Services Supply Agreement 0021,Professional Services,2024-05-02,2026-05-02,496199.62,USD,Operations,Under Review,Yes,EMP-0108
+CTR-0022,V019,Stonegate Engineering,Packaging Supply Agreement 0022,Packaging,2024-09-24,2025-03-23,1341103.32,EUR,Manufacturing,Active,No,EMP-0034
+CTR-0023,V010,Clearwater Chemicals,Electrical Supplies Supply Agreement 0023,Electrical Supplies,2024-11-19,2025-02-17,23584.34,USD,IT,Draft,Yes,EMP-0130
+CTR-0024,V009,Redstone Maintenance Co,Office Supplies Supply Agreement 0024,Office Supplies,2024-12-23,2025-03-23,1759144.13,EUR,Finance,Active,No,EMP-0140
+CTR-0025,V010,Clearwater Chemicals,Raw Materials Supply Agreement 0025,Raw Materials,2025-11-14,2027-11-14,602260.61,EUR,Facilities,Active,Yes,EMP-0028
+CTR-0026,V018,Harborview Paper Products,Office Supplies Supply Agreement 0026,Office Supplies,2024-10-05,2025-10-05,1211635.5,EUR,Manufacturing,Terminated,No,EMP-0130
+CTR-0027,V016,Westwind Electrical,Maintenance Supply Agreement 0027,Maintenance,2026-05-16,2026-08-14,189135.44,MAD,Finance,Draft,Yes,EMP-0086
+CTR-0028,V005,Sahara Office Solutions,Maintenance Supply Agreement 0028,Maintenance,2024-06-14,2027-06-14,886461.85,MAD,Operations,Draft,Yes,EMP-0039
+CTR-0029,V018,Harborview Paper Products,Raw Materials Supply Agreement 0029,Raw Materials,2026-05-04,2027-05-04,1167106.59,EUR,Quality,Active,Yes,EMP-0079
+CTR-0030,V012,Greenfield Raw Materials,Raw Materials Supply Agreement 0030,Raw Materials,2025-01-01,2025-06-30,1365723.04,EUR,Procurement,Under Review,No,EMP-0040
+CTR-0031,V008,Summit Logistics Parts,Office Supplies Supply Agreement 0031,Office Supplies,2026-03-30,2026-09-26,1763425.33,EUR,Facilities,Terminated,No,EMP-0106
+CTR-0032,V008,Summit Logistics Parts,Maintenance Supply Agreement 0032,Maintenance,2024-06-12,2027-06-12,220650.77,EUR,Logistics,Active,Yes,EMP-0118
+CTR-0033,V012,Greenfield Raw Materials,Maintenance Supply Agreement 0033,Maintenance,2026-04-20,2026-10-17,449732.48,EUR,Quality,Active,No,EMP-0018
+CTR-0034,V009,Redstone Maintenance Co,Packaging Supply Agreement 0034,Packaging,2025-10-18,2027-10-18,802358.38,USD,Procurement,Draft,Yes,EMP-0067
+CTR-0035,V006,Meridian Safety Products,Maintenance Supply Agreement 0035,Maintenance,2024-02-09,2024-05-09,1195159.65,EUR,Procurement,Expired,Yes,EMP-0099
+CTR-0036,V019,Stonegate Engineering,Safety Equipment Supply Agreement 0036,Safety Equipment,2024-09-17,2024-12-16,1419026.64,EUR,Manufacturing,Active,No,EMP-0018
+CTR-0037,V011,Vertex Tools & Equipment,Packaging Supply Agreement 0037,Packaging,2025-11-10,2026-02-08,1440909.75,EUR,Finance,Terminated,No,EMP-0084
+CTR-0038,V013,Silverline IT Services,Maintenance Supply Agreement 0038,Maintenance,2025-07-21,2026-01-17,387720.99,MAD,Facilities,Under Review,No,EMP-0104
+CTR-0039,V018,Harborview Paper Products,Raw Materials Supply Agreement 0039,Raw Materials,2024-11-07,2025-11-07,424314.46,USD,Procurement,Expired,No,EMP-0114
+CTR-0040,V007,Oakbridge Manufacturing,Electrical Supplies Supply Agreement 0040,Electrical Supplies,2026-03-23,2029-03-22,343534.34,EUR,Finance,Under Review,No,EMP-0024
+CTR-0041,V008,Summit Logistics Parts,Maintenance Supply Agreement 0041,Maintenance,2024-08-18,2025-02-14,298971.15,EUR,Manufacturing,Expired,Yes,EMP-0117
+CTR-0042,V014,Pioneer Facility Goods,Safety Equipment Supply Agreement 0042,Safety Equipment,2026-01-05,2029-01-04,771037.04,MAD,Manufacturing,Active,Yes,EMP-0028
+CTR-0043,V014,Pioneer Facility Goods,Safety Equipment Supply Agreement 0043,Safety Equipment,2024-06-29,2027-06-29,1038325.71,EUR,Manufacturing,Draft,No,EMP-0035
+CTR-0044,V015,Crown Industrial Textiles,Packaging Supply Agreement 0044,Packaging,2026-02-12,2027-08-06,1227241.38,USD,Quality,Under Review,No,EMP-0041
+CTR-0045,V016,Westwind Electrical,Electrical Supplies Supply Agreement 0045,Electrical Supplies,2024-09-22,2025-03-21,1680526.46,EUR,Logistics,Terminated,Yes,EMP-0071
+CTR-0046,V015,Crown Industrial Textiles,IT Equipment Supply Agreement 0046,IT Equipment,2025-12-31,2026-12-31,472814.69,EUR,Procurement,Under Review,Yes,EMP-0036
+CTR-0047,V005,Sahara Office Solutions,Safety Equipment Supply Agreement 0047,Safety Equipment,2025-01-27,2028-01-27,309846.51,EUR,IT,Expired,No,EMP-0085
+CTR-0048,V018,Harborview Paper Products,Electrical Supplies Supply Agreement 0048,Electrical Supplies,2025-03-01,2025-05-30,417634.61,MAD,Quality,Under Review,Yes,EMP-0148
+CTR-0049,V013,Silverline IT Services,Electrical Supplies Supply Agreement 0049,Electrical Supplies,2024-01-07,2025-01-06,600732.24,MAD,Quality,Under Review,Yes,EMP-0125
+CTR-0050,V008,Summit Logistics Parts,Maintenance Supply Agreement 0050,Maintenance,2025-03-22,2026-09-13,62904.52,EUR,Quality,Terminated,Yes,EMP-0120
+CTR-0051,V005,Sahara Office Solutions,Raw Materials Supply Agreement 0051,Raw Materials,2025-02-07,2027-02-07,1130962.01,EUR,IT,Terminated,No,EMP-0035
+CTR-0052,V015,Crown Industrial Textiles,Office Supplies Supply Agreement 0052,Office Supplies,2024-02-21,2025-02-20,761312.21,EUR,Logistics,Active,No,EMP-0098
+CTR-0053,V009,Redstone Maintenance Co,Professional Services Supply Agreement 0053,Professional Services,2024-09-15,2024-12-14,943262.14,USD,Operations,Active,Yes,EMP-0018
+CTR-0054,V002,Northstar Components,Raw Materials Supply Agreement 0054,Raw Materials,2024-09-10,2025-03-09,1679261.55,USD,Facilities,Active,Yes,EMP-0122
+CTR-0055,V004,BluePeak Electronics,Safety Equipment Supply Agreement 0055,Safety Equipment,2025-04-21,2028-04-20,516206.17,EUR,Facilities,Under Review,Yes,EMP-0042
+CTR-0056,V010,Clearwater Chemicals,IT Equipment Supply Agreement 0056,IT Equipment,2025-08-15,2025-11-13,1858129.9,USD,Quality,Expired,Yes,EMP-0020
+CTR-0057,V019,Stonegate Engineering,Safety Equipment Supply Agreement 0057,Safety Equipment,2024-04-14,2027-04-14,1546099.37,USD,IT,Under Review,Yes,EMP-0089
+CTR-0058,V018,Harborview Paper Products,Professional Services Supply Agreement 0058,Professional Services,2025-11-08,2026-11-08,142568.69,EUR,Operations,Expired,No,EMP-0028
+CTR-0059,V014,Pioneer Facility Goods,Packaging Supply Agreement 0059,Packaging,2025-10-12,2027-04-05,1416080.74,MAD,Facilities,Terminated,No,EMP-0138
+CTR-0060,V016,Westwind Electrical,Electrical Supplies Supply Agreement 0060,Electrical Supplies,2025-03-22,2028-03-21,1186986.87,EUR,Manufacturing,Draft,No,EMP-0116
+CTR-0061,V008,Summit Logistics Parts,Electrical Supplies Supply Agreement 0061,Electrical Supplies,2025-08-06,2027-08-06,1338036.0,EUR,Operations,Expired,No,EMP-0047
+CTR-0062,V016,Westwind Electrical,Safety Equipment Supply Agreement 0062,Safety Equipment,2024-12-29,2025-12-29,683975.99,USD,Finance,Under Review,Yes,EMP-0133
+CTR-0063,V007,Oakbridge Manufacturing,IT Equipment Supply Agreement 0063,IT Equipment,2024-09-04,2027-09-04,815824.11,USD,Manufacturing,Terminated,No,EMP-0126
+CTR-0064,V015,Crown Industrial Textiles,Raw Materials Supply Agreement 0064,Raw Materials,2024-04-05,2025-04-05,447084.82,EUR,Finance,Terminated,No,EMP-0122
+CTR-0065,V018,Harborview Paper Products,Packaging Supply Agreement 0065,Packaging,2025-03-11,2028-03-10,1103025.0,EUR,Logistics,Active,No,EMP-0065
+CTR-0066,V008,Summit Logistics Parts,IT Equipment Supply Agreement 0066,IT Equipment,2026-01-08,2026-07-07,634518.15,USD,Facilities,Active,Yes,EMP-0124
+CTR-0067,V009,Redstone Maintenance Co,Maintenance Supply Agreement 0067,Maintenance,2024-04-12,2024-10-09,596011.69,EUR,Facilities,Active,Yes,EMP-0137
+CTR-0068,V005,Sahara Office Solutions,Maintenance Supply Agreement 0068,Maintenance,2024-02-16,2024-05-16,1108951.14,EUR,Logistics,Draft,Yes,EMP-0147
+CTR-0069,V010,Clearwater Chemicals,Electrical Supplies Supply Agreement 0069,Electrical Supplies,2025-05-05,2026-10-27,684708.34,EUR,Finance,Expired,Yes,EMP-0017
+CTR-0070,V013,Silverline IT Services,Electrical Supplies Supply Agreement 0070,Electrical Supplies,2024-03-16,2026-03-16,1260744.19,EUR,Facilities,Active,No,EMP-0022
+CTR-0071,V008,Summit Logistics Parts,IT Equipment Supply Agreement 0071,IT Equipment,2025-07-25,2027-01-16,1214603.71,USD,Manufacturing,Under Review,No,EMP-0116
+CTR-0072,V015,Crown Industrial Textiles,Maintenance Supply Agreement 0072,Maintenance,2026-05-30,2028-05-29,1980112.36,EUR,Operations,Under Review,Yes,EMP-0054
+CTR-0073,V007,Oakbridge Manufacturing,Maintenance Supply Agreement 0073,Maintenance,2025-11-07,2026-02-05,318328.9,EUR,IT,Active,Yes,EMP-0105
+CTR-0074,V015,Crown Industrial Textiles,Electrical Supplies Supply Agreement 0074,Electrical Supplies,2024-10-25,2025-01-23,466795.09,EUR,Logistics,Draft,Yes,EMP-0068
+CTR-0075,V019,Stonegate Engineering,Safety Equipment Supply Agreement 0075,Safety Equipment,2025-03-11,2025-06-09,1091401.95,EUR,Finance,Active,Yes,EMP-0016
+CTR-0076,V006,Meridian Safety Products,Maintenance Supply Agreement 0076,Maintenance,2025-09-01,2028-08-31,1649359.4,EUR,Logistics,Draft,No,EMP-0078
+CTR-0077,V013,Silverline IT Services,Maintenance Supply Agreement 0077,Maintenance,2025-05-27,2027-05-27,990121.46,EUR,Operations,Expired,No,EMP-0065
+CTR-0078,V001,Atlas Industrial Supplies,IT Equipment Supply Agreement 0078,IT Equipment,2024-08-22,2027-08-22,1672737.43,USD,Operations,Terminated,No,EMP-0148
+CTR-0079,V002,Northstar Components,Office Supplies Supply Agreement 0079,Office Supplies,2025-04-26,2027-04-26,1304761.43,EUR,Facilities,Under Review,No,EMP-0126
+CTR-0080,V003,Cedarline Packaging,Electrical Supplies Supply Agreement 0080,Electrical Supplies,2024-12-22,2026-06-15,669950.25,EUR,Facilities,Active,No,EMP-0127
+CTR-0081,V010,Clearwater Chemicals,Professional Services Supply Agreement 0081,Professional Services,2026-04-13,2028-04-12,78210.77,EUR,Procurement,Active,No,EMP-0030
+CTR-0082,V013,Silverline IT Services,Raw Materials Supply Agreement 0082,Raw Materials,2025-11-04,2027-11-04,926642.81,EUR,Manufacturing,Under Review,No,EMP-0128
+CTR-0083,V015,Crown Industrial Textiles,Raw Materials Supply Agreement 0083,Raw Materials,2024-07-27,2025-07-27,1100693.18,EUR,Logistics,Terminated,No,EMP-0032
+CTR-0084,V001,Atlas Industrial Supplies,Safety Equipment Supply Agreement 0084,Safety Equipment,2025-12-27,2026-06-25,624946.53,EUR,Quality,Draft,Yes,EMP-0030
+CTR-0085,V015,Crown Industrial Textiles,IT Equipment Supply Agreement 0085,IT Equipment,2025-10-25,2026-04-23,999259.13,EUR,Finance,Expired,No,EMP-0121
+CTR-0086,V008,Summit Logistics Parts,Electrical Supplies Supply Agreement 0086,Electrical Supplies,2025-07-18,2026-01-14,770254.1,USD,Facilities,Draft,No,EMP-0107
+CTR-0087,V011,Vertex Tools & Equipment,Maintenance Supply Agreement 0087,Maintenance,2026-04-20,2026-07-19,569263.77,EUR,Logistics,Active,No,EMP-0138
+CTR-0088,V016,Westwind Electrical,Packaging Supply Agreement 0088,Packaging,2024-12-06,2026-12-06,1526930.99,MAD,Logistics,Active,Yes,EMP-0062
+CTR-0089,V019,Stonegate Engineering,Professional Services Supply Agreement 0089,Professional Services,2024-08-27,2026-02-18,92076.36,MAD,Quality,Expired,Yes,EMP-0127
+CTR-0090,V002,Northstar Components,Office Supplies Supply Agreement 0090,Office Supplies,2025-05-29,2027-05-29,667329.43,EUR,Logistics,Draft,No,EMP-0004
+CTR-0091,V005,Sahara Office Solutions,Professional Services Supply Agreement 0091,Professional Services,2026-06-10,2029-06-09,1940063.8,EUR,Logistics,Active,No,EMP-0102
+CTR-0092,V003,Cedarline Packaging,Packaging Supply Agreement 0092,Packaging,2026-05-22,2029-05-21,1719387.66,MAD,Procurement,Terminated,No,EMP-0139
+CTR-0093,V002,Northstar Components,IT Equipment Supply Agreement 0093,IT Equipment,2024-08-28,2027-08-28,1370377.15,EUR,Manufacturing,Terminated,Yes,EMP-0112
+CTR-0094,V004,BluePeak Electronics,IT Equipment Supply Agreement 0094,IT Equipment,2025-03-30,2025-09-26,1389532.32,EUR,Operations,Active,Yes,EMP-0076
+CTR-0095,V012,Greenfield Raw Materials,Packaging Supply Agreement 0095,Packaging,2025-03-17,2025-09-13,492173.88,MAD,Facilities,Active,Yes,EMP-0021
+CTR-0096,V020,BrightPath Medical Supplies,Professional Services Supply Agreement 0096,Professional Services,2025-09-26,2028-09-25,485455.43,USD,Facilities,Active,No,EMP-0066
+CTR-0097,V015,Crown Industrial Textiles,Maintenance Supply Agreement 0097,Maintenance,2025-11-13,2026-02-11,1798322.52,MAD,Finance,Terminated,Yes,EMP-0019
+CTR-0098,V015,Crown Industrial Textiles,Packaging Supply Agreement 0098,Packaging,2025-08-24,2026-08-24,1279682.71,MAD,Finance,Expired,No,EMP-0051
+CTR-0099,V013,Silverline IT Services,Electrical Supplies Supply Agreement 0099,Electrical Supplies,2024-04-19,2024-10-16,765821.77,EUR,Finance,Terminated,No,EMP-0006
+CTR-0100,V013,Silverline IT Services,Maintenance Supply Agreement 0100,Maintenance,2024-01-09,2026-01-08,1730809.46,EUR,Logistics,Active,Yes,EMP-0091
+CTR-0101,V008,Summit Logistics Parts,Safety Equipment Supply Agreement 0101,Safety Equipment,2025-09-27,2026-09-27,1357140.09,EUR,IT,Terminated,Yes,EMP-0080
+CTR-0102,V015,Crown Industrial Textiles,Raw Materials Supply Agreement 0102,Raw Materials,2025-08-16,2026-08-16,1466057.74,EUR,Finance,Active,No,EMP-0045
+CTR-0103,V007,Oakbridge Manufacturing,Office Supplies Supply Agreement 0103,Office Supplies,2026-03-16,2028-03-15,1753538.89,EUR,Finance,Active,No,EMP-0124
+CTR-0104,V010,Clearwater Chemicals,Packaging Supply Agreement 0104,Packaging,2026-04-03,2026-07-02,939321.12,EUR,Facilities,Active,No,EMP-0143
+CTR-0105,V012,Greenfield Raw Materials,IT Equipment Supply Agreement 0105,IT Equipment,2026-03-20,2027-09-11,32767.72,USD,IT,Expired,No,EMP-0068
+CTR-0106,V019,Stonegate Engineering,Professional Services Supply Agreement 0106,Professional Services,2026-04-22,2029-04-21,1880882.32,EUR,Manufacturing,Expired,Yes,EMP-0144
+CTR-0107,V011,Vertex Tools & Equipment,Safety Equipment Supply Agreement 0107,Safety Equipment,2025-10-25,2026-01-23,1272630.83,MAD,Finance,Terminated,No,EMP-0030
+CTR-0108,V005,Sahara Office Solutions,Raw Materials Supply Agreement 0108,Raw Materials,2024-02-08,2025-02-07,1991875.11,EUR,IT,Active,Yes,EMP-0100
+CTR-0109,V015,Crown Industrial Textiles,Packaging Supply Agreement 0109,Packaging,2025-11-17,2028-11-16,1394485.56,USD,Quality,Under Review,Yes,EMP-0107
+CTR-0110,V004,BluePeak Electronics,Electrical Supplies Supply Agreement 0110,Electrical Supplies,2025-09-22,2027-03-16,1878410.87,EUR,Operations,Terminated,No,EMP-0056
+CTR-0111,V015,Crown Industrial Textiles,Electrical Supplies Supply Agreement 0111,Electrical Supplies,2024-08-29,2025-08-29,203212.48,EUR,Procurement,Draft,No,EMP-0071
+CTR-0112,V007,Oakbridge Manufacturing,IT Equipment Supply Agreement 0112,IT Equipment,2026-05-18,2027-11-09,187888.48,EUR,Operations,Draft,No,EMP-0063
+CTR-0113,V005,Sahara Office Solutions,Safety Equipment Supply Agreement 0113,Safety Equipment,2024-03-11,2026-03-11,418278.95,EUR,Manufacturing,Active,Yes,EMP-0001
+CTR-0114,V009,Redstone Maintenance Co,Office Supplies Supply Agreement 0114,Office Supplies,2024-05-13,2026-05-13,505055.12,EUR,IT,Terminated,Yes,EMP-0034
+CTR-0115,V001,Atlas Industrial Supplies,Packaging Supply Agreement 0115,Packaging,2026-03-19,2026-09-15,1179761.58,EUR,Facilities,Active,Yes,EMP-0033
+CTR-0116,V014,Pioneer Facility Goods,IT Equipment Supply Agreement 0116,IT Equipment,2026-02-02,2026-05-03,955110.7,EUR,IT,Expired,Yes,EMP-0012
+CTR-0117,V017,Evergreen Components,Maintenance Supply Agreement 0117,Maintenance,2025-04-14,2028-04-13,1928232.24,EUR,Logistics,Expired,No,EMP-0028
+CTR-0118,V016,Westwind Electrical,Electrical Supplies Supply Agreement 0118,Electrical Supplies,2024-03-16,2024-06-14,647613.08,EUR,IT,Active,No,EMP-0150
+CTR-0119,V018,Harborview Paper Products,Packaging Supply Agreement 0119,Packaging,2025-01-25,2027-01-25,1063460.89,MAD,Quality,Draft,Yes,EMP-0142
+CTR-0120,V007,Oakbridge Manufacturing,Professional Services Supply Agreement 0120,Professional Services,2025-04-07,2025-10-04,830558.07,MAD,Quality,Expired,Yes,EMP-0081
+CTR-0121,V014,Pioneer Facility Goods,Packaging Supply Agreement 0121,Packaging,2025-11-12,2026-11-12,751730.54,EUR,Logistics,Draft,Yes,EMP-0022
+CTR-0122,V003,Cedarline Packaging,Professional Services Supply Agreement 0122,Professional Services,2024-04-08,2027-04-08,1478898.02,EUR,Operations,Under Review,No,EMP-0032
+CTR-0123,V014,Pioneer Facility Goods,Packaging Supply Agreement 0123,Packaging,2026-06-13,2029-06-12,1882554.09,MAD,Operations,Active,No,EMP-0091
+CTR-0124,V004,BluePeak Electronics,Safety Equipment Supply Agreement 0124,Safety Equipment,2024-06-07,2027-06-07,966967.85,EUR,Procurement,Under Review,No,EMP-0030
+CTR-0125,V009,Redstone Maintenance Co,Safety Equipment Supply Agreement 0125,Safety Equipment,2026-04-06,2027-09-28,1691084.55,USD,Operations,Under Review,No,EMP-0008
+CTR-0126,V006,Meridian Safety Products,Maintenance Supply Agreement 0126,Maintenance,2025-12-20,2026-12-20,1843467.35,EUR,Operations,Active,Yes,EMP-0145
+CTR-0127,V013,Silverline IT Services,IT Equipment Supply Agreement 0127,IT Equipment,2024-05-25,2027-05-25,1268178.17,EUR,IT,Terminated,Yes,EMP-0097
+CTR-0128,V014,Pioneer Facility Goods,Electrical Supplies Supply Agreement 0128,Electrical Supplies,2024-12-15,2025-06-13,743255.92,EUR,IT,Draft,Yes,EMP-0041
+CTR-0129,V020,BrightPath Medical Supplies,Raw Materials Supply Agreement 0129,Raw Materials,2025-11-21,2026-02-19,547845.17,MAD,Logistics,Under Review,No,EMP-0107
+CTR-0130,V009,Redstone Maintenance Co,Safety Equipment Supply Agreement 0130,Safety Equipment,2026-02-12,2028-02-12,232065.93,MAD,IT,Active,No,EMP-0135
+CTR-0131,V010,Clearwater Chemicals,Raw Materials Supply Agreement 0131,Raw Materials,2024-08-13,2026-02-04,1968969.09,EUR,Operations,Active,No,EMP-0055
+CTR-0132,V005,Sahara Office Solutions,Maintenance Supply Agreement 0132,Maintenance,2024-10-23,2025-10-23,244368.77,MAD,Quality,Active,Yes,EMP-0098
+CTR-0133,V018,Harborview Paper Products,Safety Equipment Supply Agreement 0133,Safety Equipment,2025-05-27,2027-05-27,1667541.63,EUR,IT,Expired,Yes,EMP-0112
+CTR-0134,V001,Atlas Industrial Supplies,Electrical Supplies Supply Agreement 0134,Electrical Supplies,2024-03-20,2025-03-20,1153639.53,USD,Quality,Terminated,No,EMP-0075
+CTR-0135,V004,BluePeak Electronics,Professional Services Supply Agreement 0135,Professional Services,2024-01-22,2025-01-21,347887.0,USD,Logistics,Terminated,No,EMP-0023
+CTR-0136,V014,Pioneer Facility Goods,IT Equipment Supply Agreement 0136,IT Equipment,2024-09-06,2026-02-28,1179798.22,USD,IT,Expired,No,EMP-0087
+CTR-0137,V008,Summit Logistics Parts,Packaging Supply Agreement 0137,Packaging,2026-03-08,2026-09-04,157376.86,EUR,Manufacturing,Active,No,EMP-0038
+CTR-0138,V008,Summit Logistics Parts,IT Equipment Supply Agreement 0138,IT Equipment,2024-05-29,2025-05-29,398557.25,USD,Facilities,Terminated,Yes,EMP-0046
+CTR-0139,V016,Westwind Electrical,Electrical Supplies Supply Agreement 0139,Electrical Supplies,2026-02-11,2028-02-11,1520954.91,MAD,Procurement,Terminated,No,EMP-0039
+CTR-0140,V015,Crown Industrial Textiles,IT Equipment Supply Agreement 0140,IT Equipment,2025-04-25,2026-10-17,1264613.31,EUR,Operations,Active,Yes,EMP-0080
+CTR-0141,V015,Crown Industrial Textiles,Electrical Supplies Supply Agreement 0141,Electrical Supplies,2024-02-08,2024-05-08,740631.51,EUR,IT,Terminated,Yes,EMP-0130
+CTR-0142,V013,Silverline IT Services,Electrical Supplies Supply Agreement 0142,Electrical Supplies,2025-08-17,2027-08-17,1908691.8,EUR,Logistics,Under Review,Yes,EMP-0083
+CTR-0143,V020,BrightPath Medical Supplies,Electrical Supplies Supply Agreement 0143,Electrical Supplies,2025-05-28,2025-11-24,1915656.11,MAD,IT,Active,Yes,EMP-0130
+CTR-0144,V006,Meridian Safety Products,Raw Materials Supply Agreement 0144,Raw Materials,2024-09-10,2027-09-10,878327.76,MAD,Facilities,Active,No,EMP-0073
+CTR-0145,V013,Silverline IT Services,Professional Services Supply Agreement 0145,Professional Services,2026-03-04,2027-03-04,1359400.95,EUR,Procurement,Draft,No,EMP-0025
+CTR-0146,V018,Harborview Paper Products,Professional Services Supply Agreement 0146,Professional Services,2024-10-17,2025-10-17,1448848.64,USD,Facilities,Active,Yes,EMP-0150
+CTR-0147,V005,Sahara Office Solutions,Packaging Supply Agreement 0147,Packaging,2024-11-13,2027-11-13,1398467.53,MAD,Facilities,Under Review,Yes,EMP-0080
+CTR-0148,V018,Harborview Paper Products,Professional Services Supply Agreement 0148,Professional Services,2025-10-20,2026-10-20,1627303.64,USD,IT,Terminated,No,EMP-0131
+CTR-0149,V012,Greenfield Raw Materials,Raw Materials Supply Agreement 0149,Raw Materials,2025-01-06,2026-01-06,364624.53,EUR,Procurement,Expired,Yes,EMP-0058
+CTR-0150,V005,Sahara Office Solutions,Office Supplies Supply Agreement 0150,Office Supplies,2024-03-20,2025-03-20,1689634.64,EUR,Operations,Terminated,No,EMP-0034
+CTR-0151,V020,BrightPath Medical Supplies,Professional Services Supply Agreement 0151,Professional Services,2024-06-06,2024-12-03,365787.7,USD,Facilities,Terminated,No,EMP-0012
+CTR-0152,V014,Pioneer Facility Goods,Packaging Supply Agreement 0152,Packaging,2025-11-23,2028-11-22,478872.75,MAD,Finance,Terminated,No,EMP-0060
+CTR-0153,V018,Harborview Paper Products,Safety Equipment Supply Agreement 0153,Safety Equipment,2024-11-12,2026-05-06,1808428.8,EUR,Procurement,Terminated,No,EMP-0119
+CTR-0154,V010,Clearwater Chemicals,Professional Services Supply Agreement 0154,Professional Services,2025-05-29,2027-05-29,840228.35,EUR,Manufacturing,Under Review,Yes,EMP-0065
+CTR-0155,V002,Northstar Components,Electrical Supplies Supply Agreement 0155,Electrical Supplies,2026-06-14,2027-06-14,1111308.79,EUR,IT,Active,Yes,EMP-0042
+CTR-0156,V009,Redstone Maintenance Co,Electrical Supplies Supply Agreement 0156,Electrical Supplies,2025-06-09,2025-12-06,1662938.2,EUR,Manufacturing,Expired,No,EMP-0007
+CTR-0157,V014,Pioneer Facility Goods,Raw Materials Supply Agreement 0157,Raw Materials,2025-02-09,2027-02-09,751053.17,MAD,IT,Active,Yes,EMP-0008
+CTR-0158,V011,Vertex Tools & Equipment,IT Equipment Supply Agreement 0158,IT Equipment,2026-05-09,2029-05-08,1301671.57,EUR,Facilities,Draft,No,EMP-0121
+CTR-0159,V005,Sahara Office Solutions,Electrical Supplies Supply Agreement 0159,Electrical Supplies,2025-04-04,2027-04-04,15476.14,EUR,Operations,Active,Yes,EMP-0039
+CTR-0160,V018,Harborview Paper Products,Professional Services Supply Agreement 0160,Professional Services,2024-04-23,2025-04-23,479092.25,EUR,Operations,Active,No,EMP-0118
+CTR-0161,V003,Cedarline Packaging,IT Equipment Supply Agreement 0161,IT Equipment,2026-05-06,2027-10-28,1195494.39,EUR,Manufacturing,Terminated,Yes,EMP-0075
+CTR-0162,V014,Pioneer Facility Goods,Raw Materials Supply Agreement 0162,Raw Materials,2025-09-21,2026-09-21,484925.66,MAD,Facilities,Terminated,Yes,EMP-0135
+CTR-0163,V012,Greenfield Raw Materials,IT Equipment Supply Agreement 0163,IT Equipment,2025-06-22,2027-06-22,1017118.75,USD,Operations,Expired,No,EMP-0012
+CTR-0164,V013,Silverline IT Services,Packaging Supply Agreement 0164,Packaging,2024-09-16,2027-09-16,37403.25,EUR,Procurement,Active,Yes,EMP-0149
+CTR-0165,V011,Vertex Tools & Equipment,Office Supplies Supply Agreement 0165,Office Supplies,2024-02-15,2025-02-14,1094297.42,EUR,Logistics,Terminated,No,EMP-0047
+CTR-0166,V005,Sahara Office Solutions,IT Equipment Supply Agreement 0166,IT Equipment,2026-01-03,2027-06-27,78782.66,EUR,Operations,Active,Yes,EMP-0081
+CTR-0167,V010,Clearwater Chemicals,Professional Services Supply Agreement 0167,Professional Services,2026-04-14,2028-04-13,949432.54,EUR,Manufacturing,Active,No,EMP-0013
+CTR-0168,V011,Vertex Tools & Equipment,Maintenance Supply Agreement 0168,Maintenance,2024-05-07,2025-05-07,876718.01,MAD,Logistics,Expired,No,EMP-0048
+CTR-0169,V016,Westwind Electrical,Electrical Supplies Supply Agreement 0169,Electrical Supplies,2025-01-11,2027-01-11,537107.79,EUR,Quality,Draft,No,EMP-0047
+CTR-0170,V018,Harborview Paper Products,Maintenance Supply Agreement 0170,Maintenance,2024-11-24,2025-02-22,164737.48,EUR,Finance,Expired,No,EMP-0043
+CTR-0171,V015,Crown Industrial Textiles,Packaging Supply Agreement 0171,Packaging,2025-04-02,2025-07-01,1454994.72,EUR,Quality,Active,Yes,EMP-0020
+CTR-0172,V013,Silverline IT Services,Packaging Supply Agreement 0172,Packaging,2025-06-09,2028-06-08,1360424.16,EUR,Facilities,Under Review,No,EMP-0009
+CTR-0173,V005,Sahara Office Solutions,IT Equipment Supply Agreement 0173,IT Equipment,2024-08-29,2027-08-29,735825.3,MAD,Operations,Under Review,Yes,EMP-0116
+CTR-0174,V012,Greenfield Raw Materials,Packaging Supply Agreement 0174,Packaging,2025-03-30,2025-06-28,1149973.95,USD,Procurement,Expired,No,EMP-0072
+CTR-0175,V008,Summit Logistics Parts,IT Equipment Supply Agreement 0175,IT Equipment,2024-01-27,2027-01-26,376165.86,USD,Quality,Under Review,Yes,EMP-0068
+CTR-0176,V009,Redstone Maintenance Co,Electrical Supplies Supply Agreement 0176,Electrical Supplies,2024-08-07,2026-08-07,574725.87,MAD,Manufacturing,Draft,Yes,EMP-0019
+CTR-0177,V015,Crown Industrial Textiles,Office Supplies Supply Agreement 0177,Office Supplies,2025-12-31,2027-06-24,1994538.5,EUR,Procurement,Terminated,Yes,EMP-0141
+CTR-0178,V018,Harborview Paper Products,Maintenance Supply Agreement 0178,Maintenance,2024-11-03,2025-05-02,1425059.16,EUR,Procurement,Under Review,Yes,EMP-0032
+CTR-0179,V007,Oakbridge Manufacturing,Office Supplies Supply Agreement 0179,Office Supplies,2024-08-30,2026-02-21,57436.63,USD,Procurement,Expired,Yes,EMP-0023
+CTR-0180,V003,Cedarline Packaging,Maintenance Supply Agreement 0180,Maintenance,2025-02-11,2028-02-11,1439144.97,USD,Quality,Expired,Yes,EMP-0033
+CTR-0181,V011,Vertex Tools & Equipment,IT Equipment Supply Agreement 0181,IT Equipment,2025-04-05,2026-09-27,1361817.44,EUR,Facilities,Under Review,Yes,EMP-0034
+CTR-0182,V014,Pioneer Facility Goods,Raw Materials Supply Agreement 0182,Raw Materials,2026-05-01,2026-07-30,1038613.76,EUR,Facilities,Active,No,EMP-0058
+CTR-0183,V012,Greenfield Raw Materials,Maintenance Supply Agreement 0183,Maintenance,2026-05-16,2026-08-14,504957.59,USD,Finance,Active,No,EMP-0137
+CTR-0184,V003,Cedarline Packaging,Office Supplies Supply Agreement 0184,Office Supplies,2025-08-29,2027-08-29,312617.56,USD,Procurement,Under Review,Yes,EMP-0008
+CTR-0185,V003,Cedarline Packaging,Raw Materials Supply Agreement 0185,Raw Materials,2025-10-18,2027-10-18,532988.54,EUR,Quality,Under Review,Yes,EMP-0128
+CTR-0186,V018,Harborview Paper Products,Maintenance Supply Agreement 0186,Maintenance,2025-10-19,2026-10-19,968474.91,MAD,Finance,Expired,Yes,EMP-0016
+CTR-0187,V006,Meridian Safety Products,Electrical Supplies Supply Agreement 0187,Electrical Supplies,2025-03-01,2026-08-23,931562.1,EUR,Facilities,Active,No,EMP-0089
+CTR-0188,V013,Silverline IT Services,Office Supplies Supply Agreement 0188,Office Supplies,2026-02-17,2027-02-17,1032385.37,EUR,Procurement,Active,No,EMP-0032
+CTR-0189,V009,Redstone Maintenance Co,Electrical Supplies Supply Agreement 0189,Electrical Supplies,2024-09-10,2025-03-09,198139.25,EUR,Quality,Under Review,No,EMP-0064
+CTR-0190,V006,Meridian Safety Products,Packaging Supply Agreement 0190,Packaging,2025-08-14,2028-08-13,628866.27,EUR,Logistics,Under Review,No,EMP-0128
+CTR-0191,V010,Clearwater Chemicals,Electrical Supplies Supply Agreement 0191,Electrical Supplies,2024-01-24,2024-04-23,1890739.44,USD,Logistics,Active,Yes,EMP-0150
+CTR-0192,V012,Greenfield Raw Materials,Raw Materials Supply Agreement 0192,Raw Materials,2024-02-21,2025-02-20,992313.94,MAD,Finance,Under Review,Yes,EMP-0028
+CTR-0193,V014,Pioneer Facility Goods,Office Supplies Supply Agreement 0193,Office Supplies,2024-09-27,2027-09-27,734726.39,MAD,Procurement,Draft,No,EMP-0014
+CTR-0194,V019,Stonegate Engineering,Safety Equipment Supply Agreement 0194,Safety Equipment,2025-01-06,2027-01-06,580760.39,MAD,Logistics,Under Review,No,EMP-0031
+CTR-0195,V005,Sahara Office Solutions,IT Equipment Supply Agreement 0195,IT Equipment,2025-02-07,2026-02-07,1590819.97,EUR,Procurement,Active,Yes,EMP-0131
+CTR-0196,V013,Silverline IT Services,Raw Materials Supply Agreement 0196,Raw Materials,2024-02-16,2024-05-16,278387.57,EUR,Logistics,Under Review,No,EMP-0039
+CTR-0197,V020,BrightPath Medical Supplies,Office Supplies Supply Agreement 0197,Office Supplies,2024-12-01,2026-12-01,640467.41,MAD,Finance,Under Review,No,EMP-0130
+CTR-0198,V017,Evergreen Components,Electrical Supplies Supply Agreement 0198,Electrical Supplies,2025-12-26,2027-12-26,603082.18,EUR,Procurement,Active,Yes,EMP-0107
+CTR-0199,V019,Stonegate Engineering,Maintenance Supply Agreement 0199,Maintenance,2026-03-26,2029-03-25,1744837.73,EUR,Logistics,Active,Yes,EMP-0014
+CTR-0200,V019,Stonegate Engineering,Electrical Supplies Supply Agreement 0200,Electrical Supplies,2024-06-23,2026-06-23,1259905.36,USD,Quality,Active,Yes,EMP-0009
+CTR-0201,V019,Stonegate Engineering,IT Equipment Supply Agreement 0201,IT Equipment,2024-07-14,2024-10-12,884871.94,MAD,Facilities,Expired,Yes,EMP-0106
+CTR-0202,V017,Evergreen Components,Electrical Supplies Supply Agreement 0202,Electrical Supplies,2026-06-12,2029-06-11,1456167.19,EUR,Manufacturing,Under Review,No,EMP-0123
+CTR-0203,V017,Evergreen Components,Professional Services Supply Agreement 0203,Professional Services,2024-11-17,2025-05-16,922028.75,USD,Procurement,Under Review,No,EMP-0068
+CTR-0204,V020,BrightPath Medical Supplies,Electrical Supplies Supply Agreement 0204,Electrical Supplies,2024-07-15,2025-01-11,561617.76,EUR,Manufacturing,Active,No,EMP-0054
+CTR-0205,V016,Westwind Electrical,Packaging Supply Agreement 0205,Packaging,2025-05-06,2026-05-06,1123172.74,EUR,Finance,Draft,No,EMP-0102
+CTR-0206,V012,Greenfield Raw Materials,Office Supplies Supply Agreement 0206,Office Supplies,2024-10-24,2025-01-22,578822.53,EUR,Procurement,Expired,No,EMP-0123
+CTR-0207,V007,Oakbridge Manufacturing,Safety Equipment Supply Agreement 0207,Safety Equipment,2026-04-27,2028-04-26,545909.78,USD,Finance,Active,Yes,EMP-0062
+CTR-0208,V008,Summit Logistics Parts,Raw Materials Supply Agreement 0208,Raw Materials,2025-11-16,2027-11-16,455214.93,EUR,Operations,Draft,No,EMP-0085
+CTR-0209,V016,Westwind Electrical,IT Equipment Supply Agreement 0209,IT Equipment,2025-11-28,2026-05-27,15336.99,USD,Facilities,Expired,No,EMP-0123
+CTR-0210,V007,Oakbridge Manufacturing,Maintenance Supply Agreement 0210,Maintenance,2024-11-24,2025-11-24,1293566.35,EUR,Manufacturing,Under Review,Yes,EMP-0045
+CTR-0211,V014,Pioneer Facility Goods,Office Supplies Supply Agreement 0211,Office Supplies,2024-02-07,2025-07-31,1576981.46,EUR,Finance,Draft,Yes,EMP-0077
+CTR-0212,V019,Stonegate Engineering,IT Equipment Supply Agreement 0212,IT Equipment,2024-12-09,2025-12-09,911426.41,USD,Logistics,Active,No,EMP-0070
+CTR-0213,V007,Oakbridge Manufacturing,IT Equipment Supply Agreement 0213,IT Equipment,2024-12-04,2025-06-02,1463582.87,EUR,Facilities,Draft,No,EMP-0076
+CTR-0214,V019,Stonegate Engineering,Safety Equipment Supply Agreement 0214,Safety Equipment,2024-06-28,2026-06-28,1713012.28,MAD,Quality,Under Review,No,EMP-0023
+CTR-0215,V013,Silverline IT Services,IT Equipment Supply Agreement 0215,IT Equipment,2024-07-08,2025-01-04,957520.93,EUR,Operations,Active,No,EMP-0061
+CTR-0216,V015,Crown Industrial Textiles,Maintenance Supply Agreement 0216,Maintenance,2024-12-03,2025-12-03,1167009.2,USD,Operations,Active,No,EMP-0061
+CTR-0217,V002,Northstar Components,IT Equipment Supply Agreement 0217,IT Equipment,2025-04-21,2026-04-21,323635.07,USD,Finance,Terminated,Yes,EMP-0076
+CTR-0218,V012,Greenfield Raw Materials,Safety Equipment Supply Agreement 0218,Safety Equipment,2024-08-12,2025-02-08,958972.89,MAD,Procurement,Expired,No,EMP-0138
+CTR-0219,V007,Oakbridge Manufacturing,Safety Equipment Supply Agreement 0219,Safety Equipment,2025-11-27,2027-11-27,1746904.44,EUR,Logistics,Under Review,No,EMP-0020
+CTR-0220,V019,Stonegate Engineering,IT Equipment Supply Agreement 0220,IT Equipment,2024-03-04,2026-03-04,1806261.88,EUR,Facilities,Active,No,EMP-0134
+CTR-0221,V015,Crown Industrial Textiles,IT Equipment Supply Agreement 0221,IT Equipment,2025-11-27,2026-05-26,1435251.34,MAD,IT,Under Review,No,EMP-0015
+CTR-0222,V015,Crown Industrial Textiles,Office Supplies Supply Agreement 0222,Office Supplies,2025-06-09,2026-12-01,916312.96,EUR,Logistics,Terminated,No,EMP-0006
+CTR-0223,V013,Silverline IT Services,Maintenance Supply Agreement 0223,Maintenance,2026-04-16,2026-07-15,1492879.94,USD,IT,Draft,No,EMP-0089
+CTR-0224,V003,Cedarline Packaging,Raw Materials Supply Agreement 0224,Raw Materials,2024-03-11,2025-09-02,68311.07,MAD,Facilities,Active,No,EMP-0096
+CTR-0225,V013,Silverline IT Services,Electrical Supplies Supply Agreement 0225,Electrical Supplies,2026-06-09,2027-12-01,754412.84,USD,Facilities,Terminated,No,EMP-0031
+CTR-0226,V006,Meridian Safety Products,Professional Services Supply Agreement 0226,Professional Services,2025-06-25,2025-12-22,1457076.99,EUR,Operations,Draft,No,EMP-0119
+CTR-0227,V018,Harborview Paper Products,Professional Services Supply Agreement 0227,Professional Services,2025-06-28,2026-12-20,1647604.07,EUR,Logistics,Active,Yes,EMP-0071
+CTR-0228,V007,Oakbridge Manufacturing,IT Equipment Supply Agreement 0228,IT Equipment,2024-02-02,2027-02-01,841384.99,EUR,Manufacturing,Active,Yes,EMP-0026
+CTR-0229,V020,BrightPath Medical Supplies,Raw Materials Supply Agreement 0229,Raw Materials,2025-04-02,2027-04-02,1345687.16,EUR,Manufacturing,Terminated,Yes,EMP-0103
+CTR-0230,V015,Crown Industrial Textiles,Safety Equipment Supply Agreement 0230,Safety Equipment,2025-07-06,2026-01-02,1509999.49,EUR,Facilities,Under Review,No,EMP-0060
+CTR-0231,V019,Stonegate Engineering,Packaging Supply Agreement 0231,Packaging,2025-08-14,2027-08-14,1546213.73,EUR,Manufacturing,Active,Yes,EMP-0134
+CTR-0232,V008,Summit Logistics Parts,Professional Services Supply Agreement 0232,Professional Services,2024-11-03,2025-11-03,126610.49,USD,Facilities,Terminated,No,EMP-0143
+CTR-0233,V016,Westwind Electrical,Raw Materials Supply Agreement 0233,Raw Materials,2024-12-18,2027-12-18,1344328.34,USD,Procurement,Terminated,No,EMP-0105
+CTR-0234,V005,Sahara Office Solutions,Maintenance Supply Agreement 0234,Maintenance,2025-01-20,2025-07-19,1510060.11,MAD,Manufacturing,Active,No,EMP-0037
+CTR-0235,V015,Crown Industrial Textiles,Raw Materials Supply Agreement 0235,Raw Materials,2025-07-29,2027-01-20,1935733.45,USD,Facilities,Expired,Yes,EMP-0066
+CTR-0236,V007,Oakbridge Manufacturing,Packaging Supply Agreement 0236,Packaging,2025-10-24,2026-01-22,1844841.08,EUR,IT,Under Review,Yes,EMP-0014
+CTR-0237,V009,Redstone Maintenance Co,Professional Services Supply Agreement 0237,Professional Services,2025-11-20,2027-11-20,1207829.48,EUR,Manufacturing,Under Review,Yes,EMP-0123
+CTR-0238,V007,Oakbridge Manufacturing,Packaging Supply Agreement 0238,Packaging,2024-11-06,2025-02-04,427556.51,EUR,IT,Terminated,No,EMP-0063
+CTR-0239,V020,BrightPath Medical Supplies,Safety Equipment Supply Agreement 0239,Safety Equipment,2025-02-10,2025-08-09,1106398.19,EUR,Quality,Expired,No,EMP-0079
+CTR-0240,V009,Redstone Maintenance Co,Packaging Supply Agreement 0240,Packaging,2025-06-09,2026-12-01,934678.11,MAD,Procurement,Active,No,EMP-0081
+CTR-0241,V014,Pioneer Facility Goods,Raw Materials Supply Agreement 0241,Raw Materials,2025-07-30,2026-01-26,1483798.5,EUR,Finance,Under Review,No,EMP-0076
+CTR-0242,V005,Sahara Office Solutions,Safety Equipment Supply Agreement 0242,Safety Equipment,2024-12-03,2025-06-01,762780.35,EUR,Logistics,Under Review,No,EMP-0066
+CTR-0243,V016,Westwind Electrical,Electrical Supplies Supply Agreement 0243,Electrical Supplies,2025-04-16,2025-10-13,1466880.61,EUR,Facilities,Active,No,EMP-0048
+CTR-0244,V018,Harborview Paper Products,Raw Materials Supply Agreement 0244,Raw Materials,2025-06-20,2025-09-18,1678941.64,EUR,Operations,Draft,No,EMP-0036
+CTR-0245,V008,Summit Logistics Parts,IT Equipment Supply Agreement 0245,IT Equipment,2025-12-25,2026-06-23,23237.22,USD,Logistics,Active,Yes,EMP-0124
+CTR-0246,V016,Westwind Electrical,Raw Materials Supply Agreement 0246,Raw Materials,2024-01-07,2026-01-06,1105528.9,EUR,Operations,Under Review,No,EMP-0138
+CTR-0247,V010,Clearwater Chemicals,Raw Materials Supply Agreement 0247,Raw Materials,2025-05-29,2028-05-28,1349695.74,EUR,IT,Draft,Yes,EMP-0062
+CTR-0248,V007,Oakbridge Manufacturing,Maintenance Supply Agreement 0248,Maintenance,2026-04-14,2027-04-14,538312.85,MAD,IT,Active,No,EMP-0118
+CTR-0249,V019,Stonegate Engineering,Safety Equipment Supply Agreement 0249,Safety Equipment,2025-12-14,2026-06-12,603449.41,EUR,Operations,Draft,No,EMP-0098
+CTR-0250,V013,Silverline IT Services,Electrical Supplies Supply Agreement 0250,Electrical Supplies,2024-02-27,2027-02-26,23853.09,EUR,IT,Expired,No,EMP-0085

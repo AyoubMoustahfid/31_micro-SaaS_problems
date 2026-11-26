@@ -1,0 +1,21 @@
+Vendor_ID,Vendor_Name,Country,Vendor_Status,Risk_Tier,Payment_Terms,Created_Date
+V001,Atlas Industrial Supplies,Morocco,Active,Low,Net 15,2023-03-06
+V002,Northstar Components,Germany,Active,Low,Due on Receipt,2025-10-04
+V003,Cedarline Packaging,France,Active,High,Net 15,2023-07-01
+V004,BluePeak Electronics,Spain,Active,Medium,Net 45,2025-10-31
+V005,Sahara Office Solutions,Morocco,Active,Medium,Net 45,2025-08-20
+V006,Meridian Safety Products,Netherlands,Active,Medium,Net 30,2022-05-27
+V007,Oakbridge Manufacturing,Italy,Active,Low,Net 15,2025-06-01
+V008,Summit Logistics Parts,Belgium,Active,Low,Net 15,2025-07-24
+V009,Redstone Maintenance Co,Morocco,Under Review,Medium,Net 30,2022-12-17
+V010,Clearwater Chemicals,Portugal,Active,Low,Net 45,2024-12-29
+V011,Vertex Tools & Equipment,Germany,Active,Low,Net 15,2023-05-17
+V012,Greenfield Raw Materials,Spain,Active,Medium,Net 30,2022-12-01
+V013,Silverline IT Services,Ireland,Active,Low,Net 15,2024-08-04
+V014,Pioneer Facility Goods,France,Active,Medium,Due on Receipt,2024-02-17
+V015,Crown Industrial Textiles,Turkey,Active,Medium,Net 45,2023-07-07
+V016,Westwind Electrical,Morocco,Active,High,Due on Receipt,2025-08-03
+V017,Evergreen Components,Poland,Under Review,Medium,Net 45,2025-02-14
+V018,Harborview Paper Products,Netherlands,Active,Low,Net 30,2023-03-26
+V019,Stonegate Engineering,Germany,Under Review,High,Net 45,2023-10-27
+V020,BrightPath Medical Supplies,France,Active,Medium,Net 45,2022-04-25
