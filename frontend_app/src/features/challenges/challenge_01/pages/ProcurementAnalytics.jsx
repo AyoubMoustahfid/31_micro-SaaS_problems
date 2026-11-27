@@ -4,15 +4,10 @@ import {
     resetProcurementUploads,
     runContractSplittingAnalysis,
     uploadProcurementDatasets,
-} from "../../../api/modules/admin.api";
+} from "../../../../api/modules/global.api";
 import ProcurementConfigureStep from "../components/ProcurementConfigureStep";
 import ProcurementReviewResultsStep from "../components/ProcurementReviewResultsStep";
 import ProcurementUploadStep from "../components/ProcurementUploadStep";
-
-const REQUIRED = [
-    "order_id", "vendor_id", "requester_id", "approver_id",
-    "order_date", "amount", "currency", "department",
-];
 
 function parseCsv(text) {
     const lines = text.replace(/^\uFEFF/, "").trim().split(/\r?\n/).filter(Boolean);
@@ -321,7 +316,6 @@ export default function ProcurementAnalytics() {
                         files={uploadFiles}
                         orders={orders}
                         canUpload={canUpload}
-                        requiredColumns={REQUIRED}
                         uploading={uploading}
                         onFileSelect={loadDatasetFile}
                         onUpload={uploadDatasets}

@@ -1,4 +1,4 @@
-# Ahadu Bank Fraud Detection - Frontend
+# 31 day Micro-SaaS Challenges - Frontend
 
 Modern React frontend for the fraud detection platform, built with Vite, TypeScript-ready, and Tailwind CSS.
 
@@ -193,4 +193,4 @@ npm run lint      # Run ESLint
 
 ## License
 
-Proprietary — Ahadu Bank S.C.
+Proprietary — Ayoub Moustahfid S.C.

@@ -1,6 +1,6 @@
 import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom';
 import AppLayout from '../components/layout/AppLayout';
-import ProcurementAnalytics from '../features/challenges/pages/ProcurementAnalytics';
+import ProcurementAnalytics from '../features/challenges/challenge_01/pages/ProcurementAnalytics';
 import Dashboard from '../features/dashboards/pages/Dashboard';
 
 const AppRoutes = () => {

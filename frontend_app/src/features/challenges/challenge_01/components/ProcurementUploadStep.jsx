@@ -16,7 +16,6 @@ export default function ProcurementUploadStep({
     files,
     orders,
     canUpload,
-    requiredColumns,
     uploading,
     onFileSelect,
     onUpload,
@@ -84,9 +83,7 @@ export default function ProcurementUploadStep({
             </div>
 
             <div className="mt-5 rounded-xl border border-primary/15 bg-primary-light p-4 dark:border-primary/40 dark:bg-primary/15">
-                <p className="mb-2 text-sm font-semibold text-slate-800 dark:text-slate-200">Expected purchase-order columns</p>
-                <p className="text-xs leading-5 text-slate-600 dark:text-slate-400">{requiredColumns.join(", ")}</p>
-                <p className="mt-2 text-xs text-slate-500">Use a single reporting currency. Convert currencies before upload; this prototype does not apply exchange rates.</p>
+                <p className="text-sm text-slate-800 dark:text-slate-200">Uploads may take a few moments while your files are scanned and saved here.</p>
             </div>
 
             {uploading &&

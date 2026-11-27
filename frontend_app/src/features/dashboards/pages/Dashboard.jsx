@@ -41,7 +41,10 @@ const ChallengeCard = ({ path, active, numChallenge }) => {
     return (
         <Wrapper
             {...(active ? { to: path } : {})}
-            className="relative h-[280px] bg-[#2a2a2a] border border-[#3a3a3a] rounded-sm shadow-xl flex flex-col items-center justify-center p-6"
+            className={`
+                ${active && 'hover:border-2 hover:border-gray-300 dark:hover:border-gray-400'}
+                relative h-[280px] bg-gray-200 dark:bg-[#2a2a2a] border dark:border-[#3a3a3a] border-gray-300 rounded-sm shadow-xl flex flex-col items-center justify-center p-6
+            `}
         >
             {!active && (
                 <div
@@ -50,14 +53,22 @@ const ChallengeCard = ({ path, active, numChallenge }) => {
                 />
             )}
             <div className={`relative flex items-baseline mb-2 ${active ? '' : 'opacity-5'}`}>
-                <span className="text-white text-[90px] leading-none font-serif italic font-black tracking-tighter">
-                    {challengeNumber[0]}
-                </span>
-                <span className="text-white text-[90px] leading-none font-serif italic font-black tracking-tighter -ml-2">
-                    {challengeNumber[1]}
-                </span>
+                {active ? (
+                    <>
+                        <span className="dark:text-white text-[#2a2a2a] text-[90px] leading-none font-serif italic font-black tracking-tighter">
+                            {challengeNumber[0]}
+                        </span>
+                        <span className="dark:text-white text-[#2a2a2a] text-[90px] leading-none font-serif italic font-black tracking-tighter -ml-2">
+                            {challengeNumber[1]}
+                        </span>
+                    </>
+                ) : (
+                    <span className="dark:text-white text-[#2a2a2a] text-[90px] leading-none font-serif italic font-black tracking-tighter">
+                        ?
+                    </span>
+                )}
             </div>
-            <h2 className={`relative text-white text-[22px] font-black tracking-tighter uppercase font-sans scale-y-110 ${active ? '' : 'opacity-5'}`}>
+            <h2 className={`relative dark:text-white text-[#2a2a2a] text-[22px] font-black tracking-tighter uppercase font-sans scale-y-110 ${active ? '' : 'opacity-5'}`}>
                 Problem
             </h2>
         </Wrapper>

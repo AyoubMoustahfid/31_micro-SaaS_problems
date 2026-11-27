@@ -43,9 +43,6 @@ const Header = ({ onToggleSidebar }) => {
         <div className="w-px h-5 bg-slate-200 flex-shrink-0" />
 
         <nav className="flex items-center gap-1.5 text-xs min-w-0" aria-label="Breadcrumb">
-          <span className="text-slate-400 font-medium hidden sm:block flex-shrink-0">
-            Ahadu Bank
-          </span>
           {meta.crumbs.map((crumb, index) => (
             <span key={crumb} className="flex items-center gap-1.5 min-w-0">
               <svg className="w-3 h-3 text-slate-300 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
